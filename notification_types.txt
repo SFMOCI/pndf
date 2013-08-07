@@ -1,0 +1,13 @@
+Notification name				Department
+
+Notice to Remove Tree			DPW
+Temporary Stop Relocation		MTA
+Transit Service Changes			MTA
+Capital Project Public Meeting	MTA
+Public Hearing Announcement		Planning
+Workshop Announcement			Planning
+Community Advisory Meeting		Planning
+Planning Code Updates			Planning
+Legislative Changes				Planning
+Newly Activated Permit			Planning
+Planning Office Closure			Planning
