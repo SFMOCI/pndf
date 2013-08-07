@@ -23,5 +23,4 @@ project_geometry // KML geometry in the format <LineString><coordinates>lat,long
 
 project_status // A free text entry that describes the current status of the project, e.g. (Planning, Consultation, Construction). The entries given will differ between departments, but it is valuable since users can subscribe to be notified of a change in this field.
 
-project_siblings
-project_ref of related permits, so that the platform can associate them
+project_siblings // project_ref of related permits, so that the platform can associate them
